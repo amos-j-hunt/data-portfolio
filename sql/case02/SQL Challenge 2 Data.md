@@ -20,7 +20,7 @@ Each ```pizza_id``` has a standard set of ```toppings``` which are used as part 
 
 This table contains all of the ```topping_name``` values with their corresponding ```topping_id``` value.
 ## Methodology
-PostgreSQL v13 was used for data cleanining and analysis.
+PostgreSQL v13 was used for data cleaning and analysis.
 
 The ```exclusions``` and ```extras``` columns in the ```customer_orders``` table and the ```cancellation``` column in ```runner_orders``` had some inconsistencies. There were missing values, ```null``` values, and ```nAn``` values. I have normalized these as all ```null``` values.
 
