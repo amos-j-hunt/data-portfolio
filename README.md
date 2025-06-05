@@ -6,7 +6,7 @@ Welcome to my data portfolio! Below are links to my ongoing work in data analysi
 
 ## 📊 Case Studies
 
-- [Case Studies Repository](https://github.com/amos-j-hunt/data-portfolio/case-studies)
+- [Case Studies Repository](https://github.com/amos-j-hunt/data-portfolio/tree/main/case-studies)
 
 ---
 
