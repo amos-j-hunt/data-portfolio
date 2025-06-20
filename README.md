@@ -13,6 +13,7 @@ Welcome to my data portfolio! Below are links to my ongoing work in data analysi
 ## 🛠️ Projects
 
 - [Magic: the Gathering Card Filter CLI Tool (Python/JSON)](https://github.com/amos-j-hunt/mtg-filter)
+- [Magic: the Gathering Trend Analysis (Python/JSON)](https://github.com/amos-j-hunt/mtg-trends)
 
 ---
 
